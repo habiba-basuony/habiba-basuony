@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;NLP+%7C+Computer+Vision+Developer;Always+learning+new+things!&center=true&width=500&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/habiba-basuony">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/habiba-basuony&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/">
