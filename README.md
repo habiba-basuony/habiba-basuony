@@ -14,15 +14,12 @@
   <a href="https://www.linkedin.com/">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="30" height="30" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/_habiba_ahmed_0?igsh=MWY2NnRqYzhoMXgyeA==">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" height="30" alt="Instagram"/>
   </a>
-  &nbsp;
   <a href="mailto:0habibaahmed@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30" alt="Gmail"/>
   </a>
-  &nbsp;
   <a href="https://github.com/habiba-basuony">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30" height="30" alt="GitHub"/>
   </a>
