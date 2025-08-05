@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/habiba-basuony">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/habiba-basuony&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="30" height="30" alt="LinkedIn"/>
   </a>
