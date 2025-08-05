@@ -9,13 +9,13 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/habiba-basuony&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_habiba_ahmed_0?igsh=MWY2NnRqYzhoMXgyeA==">
     <img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:0habibaahmed@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/habiba-basuony">
     <img src="https://img.shields.io/github/followers/habiba-basuony?label=Follow&style=social"/>
@@ -28,7 +28,7 @@
 
 - 💡 Machine Learning  
 - 🤖 Deep Learning  
-- 🧾 Natural Language Processing  
+- 🧾 Natural Language Processing (NLP)  
 - 📸 Computer Vision  
 
 ---
